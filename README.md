@@ -4,8 +4,7 @@ An interactive **Power BI** dashboard that analyzes 5,000 online store orders: r
 
 > ℹ️ **About the data:** this is a **synthetic practice dataset**, created for learning data analysis and dashboard design. It is not real sales data from a company.
 
-![E-commerce sales dashboard](dashboard.png)
-
+![E-commerce sales dashboard](Dasboard.png)
 ---
 
 ## 📊 What the dashboard shows
@@ -45,8 +44,8 @@ An interactive **Power BI** dashboard that analyzes 5,000 online store orders: r
 
 | File | Description |
 |---|---|
-| `sales.pbix` | The Power BI dashboard file (open it with Power BI Desktop) |
-| `dashboard.png` | A screenshot of the dashboard |
+| `sales (2).pbix` | The Power BI dashboard file (open it with Power BI Desktop) |
+| `Dashboard.png` | A screenshot of the dashboard |
 | `ecommerce_sales_analytics_5000.csv` | The dataset (5,000 orders, 12 columns) |
 
 ### Dataset columns
@@ -57,7 +56,7 @@ An interactive **Power BI** dashboard that analyzes 5,000 online store orders: r
 ## 🚀 How to open it
 
 1. Download [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows only)
-2. Download `sales.pbix` from this repository
+2. Download `sales (2).pbix` from this repository
 3. Open it in Power BI Desktop and use the filters to explore
 
 No Power BI? See the screenshot above.
